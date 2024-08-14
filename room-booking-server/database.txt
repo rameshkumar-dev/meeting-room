@@ -1,0 +1,11 @@
+-----Room-----
+id
+roomNo
+type ["AC", "Non-AC"]
+status ["Available", "Not-Available"]
+
+-----Booking-----
+id
+roomId
+checkInDate
+checkOutDate
